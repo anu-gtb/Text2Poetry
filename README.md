@@ -17,3 +17,5 @@ The dataset contains two columns - one for concept/theory and other for correspo
 3. GPT-2 Tokenizer - For tokenization
 4. GPT-2 Language Model - For model training
 5. Streamlit - For User Interface development
+
+![Alt text](Screenshot(139).png)
