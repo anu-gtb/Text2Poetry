@@ -18,4 +18,4 @@ The dataset contains two columns - one for concept/theory and other for correspo
 4. GPT-2 Language Model - For model training
 5. Streamlit - For User Interface development
 
-![Alt text](Screenshot(139).png)
+![Screenshot (141)](https://github.com/anu-gtb/Text2Poetry/assets/140297541/84a34bfc-5bd5-456c-a746-9cb69fea1982)
