@@ -4,7 +4,7 @@ import speech_recognition as sr
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
 # Define the model path
-model_path='C:\\Users\\DELL\\Documents\\HumanAIze\\model'
+model_path='Text2Poetry/model'
 
 # Load the model path
 def load_model(model_path):
