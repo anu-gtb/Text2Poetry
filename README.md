@@ -14,6 +14,7 @@ Tools and Technologies used -:
 1. YouData.ai - For dataset
 
 The dataset contains two columns - one for concept/theory and other for corresponding Poetry.
+
 2. Pandas - Exploratory Data Analysis and cleaning
 3. GPT-2 Tokenizer - For tokenization
 4. GPT-2 Language Model - For model training
